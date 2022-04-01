@@ -1,3 +1,4 @@
 # FormationOpale
-Cours HTML généré par Opale
-hakiri.github.io/FormationOpale
+Cours HTML généré par Opale:
+
+https://hakiri.github.io/FormationOpale/
